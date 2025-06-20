@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Isuru Thathsara Lakmal</h1>
+<h1 align="center">Hi 👋, I'm Thathsara Lakmal</h1>
 <h3 align="center">| SLIATE IT Student | </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=48a327&style=flat" alt="scar1109" /> </p>
 
@@ -54,9 +54,9 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"  >
-<a href="www.youtube.com/@isurupradeep8204" target="blank"><img align="center"  src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="isuruYT" height="50" width="50" /></a>   
-<a href="https://www.linkedin.com/in/isuru-pradeep-71b933348" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="isuruLinkedIn" height="50" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=100088934404086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tha Ri Ndu" height="50" width="50" /></a>
+<a href="www.youtube.com/@Trending1st" target="blank"><img align="center"  src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="thathsaraYT" height="50" width="50" /></a>   
+<a href="www.linkedin.com/in/thathsara-lakmal-08165a316" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ThathsaraLinkedIn" height="50" width="50" /></a>
+<a href="[https://www.facebook.com/profile.php?id=100088934404086](https://www.facebook.com/thathsara.lakmal.1?mibextid=zbwkwl)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Thathsara" height="50" width="50" /></a>
 </p>
 
 ---
