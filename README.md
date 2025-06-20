@@ -22,7 +22,7 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 -  🎯 Goal **To contribute to impactful software projects while continuously learning and improving**
 
-- 📫 How to reach me **pisuru136@gmail.com**
+- 📫 How to reach me **thathsaralakmal8@gamil@gmail.com**
 
 
   
@@ -56,7 +56,7 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 <p align="center"  >
 <a href="www.youtube.com/@Trending1st" target="blank"><img align="center"  src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="thathsaraYT" height="50" width="50" /></a>   
 <a href="www.linkedin.com/in/thathsara-lakmal-08165a316" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ThathsaraLinkedIn" height="50" width="50" /></a>
-<a href="[https://www.facebook.com/profile.php?id=100088934404086](https://www.facebook.com/thathsara.lakmal.1?mibextid=zbwkwl)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Thathsara" height="50" width="50" /></a>
+<a href="https://www.facebook.com/thathsara.lakmal.1?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Thathsara" height="50" width="50" /></a>
 </p>
 
 ---
