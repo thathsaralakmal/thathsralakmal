@@ -22,7 +22,7 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 -  🎯 Goal **To contribute to impactful software projects while continuously learning and improving**
 
-- 📫 How to reach me **thathsaralakmal8@gamil@gmail.com**
+- 📫 How to reach me **thathsaralakmal8@gmail.com**
 
 
   
