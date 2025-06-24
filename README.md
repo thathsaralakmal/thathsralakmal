@@ -6,7 +6,7 @@
 
 ### 👨🏻‍🎓 About Me
 
-I’m a highly motivated and detail-oriented Full Stack Developer with a strong foundation in both frontend and backend development. I enjoy building robust, responsive, and user-friendly web applications that solve real-world problems.
+I’m a highly motivated and detail-oriented Full Stack Developer with a strong foundation in both frontend and backend development. I enjoy building robust, responsive, and user-friendly web applications that solve real-world problems..
 
 ---
 
